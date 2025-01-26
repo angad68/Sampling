@@ -11,7 +11,7 @@ Steps Followed:
         The sample size was calculated using the formula:
         n=N⋅Z2⋅p⋅(1−p)e2⋅(N−1)+Z2⋅p⋅(1−p)
         n=e2⋅(N−1)+Z2⋅p⋅(1−p)N⋅Z2⋅p⋅(1−p)​
-        Parameters: Z=1.96Z=1.96 (95% confidence), p=0.5p=0.5, e=0.05e=0.05.
+        Parameters: Z=1.96(95% confidence), p=0.5, e=0.05.
 
     Sampling Techniques:
         Five different samples were created, each using unique sampling techniques.
